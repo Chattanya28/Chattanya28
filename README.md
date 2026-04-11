@@ -51,8 +51,8 @@ It has a live threat map, real-time event feeds, ML-based risk scoring, and auto
 
 ## 🌐 Find Me
 
-[![LinkedIn](https://www.linkedin.com/in/chattanya-kumari))
-[![GitHub](https://github.com/Chattanya28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chattanya-kumari/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Chattanya28)
 
 *I'm open to connecting with people who build things, break things, or fix things.*
 
