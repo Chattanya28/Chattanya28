@@ -10,7 +10,7 @@ I'm a student who actually builds things. Random ideas pop into my head, and I s
 
 | Area | Tools & Tech |
 |------|---------------|
-| **Backend** | .NET Core, ASP.NET, C# |
+| **Backend** | .NET Core, ASP.NET, C#, Linq, SQLServer |
 | **Security** | SIEM concepts, Threat Detection, Zero Trust, DevSecOps |
 | **AI/ML** | Gemini, LLM integrations, learning ML concepts (anomaly detection, confidence thresholds) |
 | **Frontend** | Whatever gets the job done |
